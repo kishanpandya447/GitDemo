@@ -31,6 +31,7 @@ public class DataDriven {
 				
 				while(cells.hasNext()) {
 				Cell value=cells.next();
+				Cell value=cells.next();
 				
 			if(	value.getStringCellValue().equalsIgnoreCase("TestCases")) {
 				
